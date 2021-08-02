@@ -3,8 +3,7 @@
 <div>
   <a href="https://github.com/ingridferreira93">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=ingridferreira93&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridferreira93&layout=compact&langs_count=7&theme=omni"/>
-</div>
+ </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ingrid-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
