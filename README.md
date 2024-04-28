@@ -1,4 +1,11 @@
-# Oie! Eu sou a Ingrid Ferreira
+# Oie! Eu sou a Ingrid Ferreira,
+Uma desenvolvedora front-end com dois anos de experiência na área. Atualmente residindo e trabalhando em São Paulo, tenho o prazer de estar envolvida em  projetos desafiadores em uma agência de publicidade, onde atuo diretamente com o cliente TIM.
+
+Minha jornada profissional tem sido pautada pela busca incessante pelo aprimoramento e pela entrega de resultados de qualidade. Ao longo desses dois anos, desenvolvi sólidas
+habilidades na criação de interfaces dinâmicas e responsivas, bem como na integração de elementos visuais e funcionais para proporcionar a melhor experiência do usuário possível.
+
+Tenho experiência sólida no uso da metodologia ágil, o que me permite trabalhar de forma eficiente e colaborativa em equipes multidisciplinares. No meu atual papel, mergulhei de cabeça 
+na dinâmica de cada squad do cliente TIM, absorvendo conhecimento e contribuindo ativamente para o sucesso dos projetos.
 
 <div>
   <a href="https://github.com/ingridferreira93">
