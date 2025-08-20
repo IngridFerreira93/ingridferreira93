@@ -1,11 +1,18 @@
-# Oie! Eu sou a Ingrid Ferreira,
-Uma desenvolvedora front-end com dois anos de experiência na área. Atualmente residindo e trabalhando em São Paulo, tenho o prazer de estar envolvida em  projetos desafiadores em uma agência de publicidade, onde atuo diretamente com o cliente TIM.
+# 👋 Oie! Eu sou a Ingrid Ferreira  
 
-Minha jornada profissional tem sido pautada pela busca incessante pelo aprimoramento e pela entrega de resultados de qualidade. Ao longo desses dois anos, desenvolvi sólidas
-habilidades na criação de interfaces dinâmicas e responsivas, bem como na integração de elementos visuais e funcionais para proporcionar a melhor experiência do usuário possível.
+Sou **Desenvolvedora Front-end** com 3 anos de experiência, atualmente morando e trabalhando em **São Paulo**. Tenho atuado em projetos desafiadores em uma agência de publicidade, colaborando diretamente no desenvolvimento e manutenção do **Portal TIM**.  
 
-Tenho experiência sólida no uso da metodologia ágil, o que me permite trabalhar de forma eficiente e colaborativa em equipes multidisciplinares. No meu atual papel, mergulhei de cabeça 
-na dinâmica de cada squad do cliente TIM, absorvendo conhecimento e contribuindo ativamente para o sucesso dos projetos.
+🚀 Ao longo da minha jornada, venho aprimorando minhas habilidades em:  
+- Criação de interfaces **dinâmicas e responsivas**  
+- Integração de elementos **visuais e funcionais** para melhor UX  
+- Uso de **metodologias ágeis (Scrum/Kanban)** para garantir entregas rápidas e de qualidade  
+
+💡 O que mais me motiva é transformar ideias em soluções digitais que façam diferença no dia a dia das pessoas.  
+
+🌱 Atualmente, estou cursando uma **Pós-graduação em AI Engineering** na Impacta, com o objetivo de unir **Inteligência Artificial** ao **desenvolvimento web**.  
+
+📌 Aqui no meu GitHub você encontrará projetos pessoais e estudos que refletem meu aprendizado contínuo e minha paixão por tecnologia.  
+
 
 <div>
   <a href="https://github.com/ingridferreira93">
