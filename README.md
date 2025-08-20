@@ -1,4 +1,4 @@
-# 👋 Oie! Eu sou a Ingrid  
+# 👋 Oie! Eu sou a Ingrid  🇧🇷  
 
 Sou **Desenvolvedora Front-end** com 3 anos de experiência, atualmente morando e trabalhando em **São Paulo**. Tenho atuado em projetos desafiadores em uma agência de publicidade, colaborando diretamente no desenvolvimento e manutenção do **Portal TIM**.  
 
@@ -12,6 +12,22 @@ Sou **Desenvolvedora Front-end** com 3 anos de experiência, atualmente morando 
 🌱 Atualmente, estou cursando uma **Pós-graduação em AI Engineering** na Impacta, com o objetivo de unir **Inteligência Artificial** ao **desenvolvimento web**.  
 
 📌 Aqui no meu GitHub você encontrará projetos pessoais e estudos que refletem meu aprendizado contínuo e minha paixão por tecnologia.  
+
+
+# 👋 Hi there! I'm Ingrid  🇬🇧
+
+I’m a **Front-end Developer** with 3 years of experience, currently living and working in **São Paulo, Brazil**. I’ve been involved in challenging projects at an advertising agency, contributing directly to the development and maintenance of the **TIM Portal**.  
+
+🚀 Throughout my journey, I’ve been improving my skills in:  
+- Building **dynamic and responsive interfaces**  
+- Integrating **visual and functional elements** to enhance user experience  
+- Working with **agile methodologies (Scrum/Kanban)** to deliver fast and high-quality results  
+
+💡 What motivates me the most is turning ideas into digital solutions that have a real impact on people’s everyday lives.  
+
+🌱 I’m currently pursuing a **Postgraduate degree in AI Engineering** at Impacta, with the goal of combining **Artificial Intelligence** with **web development**.  
+
+📌 On my GitHub, you’ll find personal projects and study repositories that reflect my continuous learning and passion for technology.  
 
 
 <div>
