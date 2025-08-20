@@ -1,4 +1,4 @@
-# 👋 Oie! Eu sou a Ingrid  🇧🇷  
+# 👋 Oie! Eu sou a Ingrid 
 
 Sou **Desenvolvedora Front-end** com 3 anos de experiência, atualmente morando e trabalhando em **São Paulo**. Tenho atuado em projetos desafiadores em uma agência de publicidade, colaborando diretamente no desenvolvimento e manutenção do **Portal TIM**.  
 
@@ -14,7 +14,7 @@ Sou **Desenvolvedora Front-end** com 3 anos de experiência, atualmente morando 
 📌 Aqui no meu GitHub você encontrará projetos pessoais e estudos que refletem meu aprendizado contínuo e minha paixão por tecnologia.  
 
 
-# 👋 Hi there! I'm Ingrid  🇬🇧
+# 👋 Hi there! I'm Ingrid
 
 I’m a **Front-end Developer** with 3 years of experience, currently living and working in **São Paulo, Brazil**. I’ve been involved in challenging projects at an advertising agency, contributing directly to the development and maintenance of the **TIM Portal**.  
 
