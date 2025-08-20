@@ -1,4 +1,4 @@
-# 👋 Oie! Eu sou a Ingrid Ferreira  
+# 👋 Oie! Eu sou a Ingrid  
 
 Sou **Desenvolvedora Front-end** com 3 anos de experiência, atualmente morando e trabalhando em **São Paulo**. Tenho atuado em projetos desafiadores em uma agência de publicidade, colaborando diretamente no desenvolvimento e manutenção do **Portal TIM**.  
 
